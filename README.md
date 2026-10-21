@@ -11,13 +11,13 @@ An interactive Power BI dashboard designed to analyze branch-level business volu
 
 ## Dashboard Screenshots
 
-### Page 1
+### Executive Summary
 ![Dashboard Page 1](images/1.png)
 
-### Page 2
+### Branch Profitability Analysis
 ![Dashboard Page 2](images/2.png)
 
-### Page 3
+### Branch Performance Trends
 ![Dashboard Page 3](images/3.png)
 
 ## Key Features
